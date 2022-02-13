@@ -4,7 +4,7 @@
   "description": "First backend application",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js",
+    "test": "test",
     "start": "node app.js"
   },
   "author": "Oskar",
