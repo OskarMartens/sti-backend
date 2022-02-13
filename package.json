@@ -7,28 +7,23 @@
     "test": "node app.js",
     "start": "node app.js"
   },
-
   "author": "Oskar",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.2",
-    "healthcheck": "^0.1.3"
+    "healthcheck": "^0.1.3",
+    "heroku": "^7.59.2"
   },
-
   "bugs": {
     "url": "https://github.com/OskarMartens/sti-backend/issues"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OskarMartens/sti-backend.git"
   },
-
   "engines": {
     "node": "17.x"
   },
-
   "homepage": "https://github.com/OskarMartens/sti-backend#readme"
-
 }
